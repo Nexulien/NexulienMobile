@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is the client that Nexoid loads, so that it can have extra features that make Nexoid actually usable.
+
 > [!WARNING]
 > Nexulien is still pretty young in terms of differences from Vencord. We'll be adding more stuff and features over time, please be patient with us. Thinking is hard!
 
