@@ -1,3 +1,11 @@
+> [!WARNING]
+> # THIS VERSION OF NEXULIEN IS NOT FOR DESKTOP USERS.
+> Nexoid requires it's own fork of Nexulien for additional features.
+>
+> Please refer to [Nexulien/Nexulien](https://github.com/Nexulien/Nexulien) for desktop installations.
+
+---
+
 <p>
 <img alt="Nexulien" src="./images/logo.svg" height="192px" align="left">
 <br>
